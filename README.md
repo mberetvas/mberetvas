@@ -32,6 +32,10 @@ I’m a former maintenance technician who decided that fixing broken code was mo
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=mberetvas&layout=compact&theme=dark)
 
 ---
+## Gists
+
+Feel free to try my Agent for github copilot. 
+![Agent Hydra](https://gist.github.com/mberetvas/a5fa8075fdacf8a7dd6602d8cda4bd74)
 
 > If you’re looking for a backend developer who can write Python and Rust with one hand and mock business logic with the other, you’re in the right place.
 
