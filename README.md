@@ -8,8 +8,6 @@ Welcome to my corner of GitHub, where the error logs are plentiful and the sarca
 
 I’m a former maintenance technician who decided that fixing broken code was more fun than fixing broken machines. Now I’m a full-time, self-taught backend developer and data specialist. My career path is a bit like my SQL queries: sometimes convoluted, but always gets the job done (eventually).
 
-**Fun Fact:** I like programming so much, I do it instead of gaming. That’s right—my idea of “leveling up” is getting a script to finally run without exceptions.
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -34,8 +32,9 @@ I’m a former maintenance technician who decided that fixing broken code was mo
 ---
 ## Gists
 
-Feel free to try my Agent for github copilot. 
+Feel free to try my Agents.
 ![Agent Hydra](https://gist.github.com/mberetvas/a5fa8075fdacf8a7dd6602d8cda4bd74)
+![Brainstorming assistant](https://gist.github.com/mberetvas/e37d206720e62743bd6c6ddfd3ead3a5)
 
 
 
