@@ -35,6 +35,5 @@ I’m a former maintenance technician who decided that fixing broken code was mo
 Feel free to try my Agents.
 ![Agent Hydra](https://gist.github.com/mberetvas/a5fa8075fdacf8a7dd6602d8cda4bd74)
 ![Brainstorming assistant](https://gist.github.com/mberetvas/e37d206720e62743bd6c6ddfd3ead3a5)
-
-
+![Anti-sycophant](https://gist.github.com/mberetvas/045fec3e076e0b5861984970d2d02d94)
 
